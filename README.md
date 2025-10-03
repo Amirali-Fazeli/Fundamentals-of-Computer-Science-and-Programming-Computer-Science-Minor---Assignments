@@ -7,4 +7,4 @@ Algorithmic Thinking -
 Fundamental Syntax - 
 Testing and Validation
 # Structure
-Assignments are organized numerically.
+Assignments are organized numerically. Each sub-file represents a complete solution to a specific challenge, code and question files are provided.
